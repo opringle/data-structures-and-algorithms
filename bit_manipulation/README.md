@@ -11,7 +11,7 @@ There are 6 bitwise operators worth knowing for interviews:
 5. Left shift (<<) - shift all bits left by n places
 6. Right shift (>>) - shift all bits right by n places
 
-XOR is most useful in techical interviews. Remember these operators occur bit by bit!
+XOR is most useful in techical interviews.
 
 ## Bit facts
 
